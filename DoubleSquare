@@ -1,0 +1,5 @@
+double_square = lambda num : num**2
+
+
+print(double_square(5))
+print(double_square(3))
