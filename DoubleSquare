@@ -1,4 +1,4 @@
-double_square = lambda num : num**2
+double_square = lambda num : 2*num**2
 
 
 print(double_square(5))
