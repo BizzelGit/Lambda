@@ -1,0 +1,6 @@
+long_string = lambda str : True if len(str) > 12 else False
+
+
+print(long_string("short"))
+print(long_string("photosynthesis"))
+
